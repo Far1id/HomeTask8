@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\HomeTask8\HomeTask8\bin\Debug\netcoreapp3.1\HomeTask8.exe
+C:\Users\User\Desktop\HomeTask8\HomeTask8\bin\Debug\netcoreapp3.1\HomeTask8.deps.json
+C:\Users\User\Desktop\HomeTask8\HomeTask8\bin\Debug\netcoreapp3.1\HomeTask8.runtimeconfig.json
+C:\Users\User\Desktop\HomeTask8\HomeTask8\bin\Debug\netcoreapp3.1\HomeTask8.runtimeconfig.dev.json
+C:\Users\User\Desktop\HomeTask8\HomeTask8\bin\Debug\netcoreapp3.1\HomeTask8.dll
+C:\Users\User\Desktop\HomeTask8\HomeTask8\bin\Debug\netcoreapp3.1\HomeTask8.pdb
+C:\Users\User\Desktop\HomeTask8\HomeTask8\obj\Debug\netcoreapp3.1\HomeTask8.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HomeTask8\HomeTask8\obj\Debug\netcoreapp3.1\HomeTask8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HomeTask8\HomeTask8\obj\Debug\netcoreapp3.1\HomeTask8.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HomeTask8\HomeTask8\obj\Debug\netcoreapp3.1\HomeTask8.AssemblyInfo.cs
+C:\Users\User\Desktop\HomeTask8\HomeTask8\obj\Debug\netcoreapp3.1\HomeTask8.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HomeTask8\HomeTask8\obj\Debug\netcoreapp3.1\HomeTask8.dll
+C:\Users\User\Desktop\HomeTask8\HomeTask8\obj\Debug\netcoreapp3.1\HomeTask8.pdb
+C:\Users\User\Desktop\HomeTask8\HomeTask8\obj\Debug\netcoreapp3.1\HomeTask8.genruntimeconfig.cache
